@@ -1,0 +1,28 @@
+Since 2008, the Python world has been watching the slow evolution of Python 3. It was
+always known that the adoption of Python 3 would likely take a long time. In fact, even
+at the time of this writing (2013), most working Python programmers continue to use
+Python 2 in production. A lot has been made about the fact that Python 3 is not backward
+compatible with past versions. To be sure, backward compatibility is an issue for anyone
+with an existing code base. However, if you shift your view toward the future, you’ll find
+that Python 3 offers much more than meets the eye.
+Just as Python 3 is about the future, this edition of the Python Cookbook represents a
+major change over past editions. First and foremost, this is meant to be a very forward
+looking book. All of the recipes have been written and tested with Python 3.3 without
+regard to past Python versions or the “old way” of doing things. In fact, many of the
+recipes will only work with Python 3.3 and above. Doing so may be a calculated risk,
+but the ultimate goal is to write a book of recipes based on the most modern tools and
+idioms possible. It is hoped that the recipes can serve as a guide for people writing new
+code in Python 3 or those who hope to modernize existing code.
+Needless to say, writing a book of recipes in this style presents a certain editorial chal‐
+lenge. An online search for Python recipes returns literally thousands of useful recipes
+on sites such as ActiveState’s Python recipes or Stack Overflow. However, most of these
+recipes are steeped in history and the past. Besides being written almost exclusively for
+Python 2, they often contain workarounds and hacks related to differences between old
+versions of Python (e.g., version 2.3 versus 2.4). Moreover, they often use outdated
+techniques that have simply become a built-in feature of Python 3.3. Finding recipes
+exclusively focused on Python 3 can be a bit more difficult.
+Rather than attempting to seek out Python 3-specific recipes, the topics of this book are
+merely inspired by existing code and techniques. Using these ideas as a springboard,
+the writing is an original work that has been deliberately written with the most modern
+Python programming techniques possible. Thus, it can serve as a reference for anyone
+who wants to write their code in a modern style.
